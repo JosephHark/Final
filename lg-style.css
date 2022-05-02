@@ -38,3 +38,13 @@
 .dropdown:hover .dropbtn {
     background-color: #3e8e41;
 }
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+    text-decoration: none;
+}
+.home{
+    text-decoration: none;
+}
